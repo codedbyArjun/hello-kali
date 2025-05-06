@@ -1,0 +1,31 @@
+# Kali Linux Commands Log - By Arjun
+
+-----------------------------------------
+📆 Date: 07 May 2025
+-----------------------------------------
+
+1. 🔹 Command: ifconfig  
+   🔧 Purpose: Network interface details dekhne ke liye  
+   💡 Note: IP address, MAC address yahan se milta hai
+
+2. 🔹 Command: nmap -sV 192.168.1.1  
+   🔧 Purpose: Target machine ke open ports aur services dekhne ke liye  
+   💡 Note: -sV flag service version detection ke liye hota hai
+
+3. 🔹 Command: mkdir testfolder  
+   🔧 Purpose: Ek naya folder banane ke liye  
+   💡 Note: Ye command current directory me folder banata hai
+
+-----------------------------------------
+📆 Date: 08 May 2025
+-----------------------------------------
+
+1. 🔹 Command: cd Desktop  
+   🔧 Purpose: Desktop folder me jaane ke liye  
+   💡 Note: cd = change directory
+
+2. 🔹 Command: airmon-ng  
+   🔧 Purpose: Wireless adapter ka status check karne ke liye  
+   💡 Note: Kali me WiFi hacking ke tools me use hota hai
+
+-----------------------------------------
